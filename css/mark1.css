@@ -1,4 +1,5 @@
-body{background-image: url(/figure/003.png);background-repeat:repeat-y}
+body{background-image: url("../figure/003.png");
+    background-repeat:repeat-y}
 h1{background-color:rgba(255, 255, 220, 0.8);padding:10px;margin:10px}
 #mark1{background-color:rgba(255,255,255,0.8);padding:5px;margin:10px}
 #A {
